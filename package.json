@@ -29,12 +29,12 @@
     "email": "belirafon@gmail.com"
   },
   "dependencies": {
-    "asterisk-ami-connector": "^1.0",
+    "asterisk-ami-connector": "minoruta/asterisk-ami-connector#multiple-outputs",
     "co": "^4.6.0",
     "debug": "^2.2.0"
   },
   "devDependencies": {
-    "asterisk-ami-event-utils": "^2.0.2",
+    "asterisk-ami-event-utils": "minoruta/asterisk-ami-event-utils#multiple-outputs",
     "asterisk-ami-test-server": "^0.1.4",
     "coveralls": "^2.11.9",
     "istanbul": "^0.4.3",
